@@ -66,3 +66,13 @@ td{
 .equal {
     border-bottom-right-radius: 10px;
 }
+
+@media screen and (min-width:769px){
+    table{
+        font-size: 42px;
+    }
+    #display {
+        font-size: 42px;
+        letter-spacing: 4px;
+    }
+}
